@@ -1,4 +1,4 @@
-# World Zipcodes Dataset Sample
+# World Zipcodes 데이터셋 샘플
 
 <h2>1,000개 레코드의 샘플 데이터셋</h2>
 
